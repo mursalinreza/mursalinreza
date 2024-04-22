@@ -11,6 +11,13 @@
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: The emoji resembles the sign of my favourite super hero😃😃
   
-[![mursalinreza](https://github-readme-stats.vercel.app/api?username=mursalinreza&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mursalinreza)](https://github.com/anuraghazra/github-readme-stats)
+[![mursalinreza](https://github-readme-stats.vercel.app/api?username=mursalinreza&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mursalinreza&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mursalinreza" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mursalinreza&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
