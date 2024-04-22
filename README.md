@@ -10,6 +10,6 @@
 - 📫 How to reach me: email me at: mursalinreza2902@gmail.com, facebook:https://www.facebook.com/reza.mursalin.980 and telekensis if you can
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: The emoji resembles the sign of my favourite super hero😃😃
-[![mursalinreza](https://github-readme-stats.vercel.app/api?username=mursalinreza)](https://github.com/anuraghazra/github-readme-stats)
+[![mursalinreza](https://github-readme-stats.vercel.app/api?username=mursalinreza&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
